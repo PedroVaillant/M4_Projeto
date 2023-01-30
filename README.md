@@ -7,7 +7,7 @@
 
 ---
 
-<img align="center" src="https://virtualbackgrounds.site/wp-content/uploads/2022/03/simple-bookshelf.jpg">
+<img align="center" src="">
 
 ---
 
