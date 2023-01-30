@@ -11,8 +11,8 @@ telefone varchar(15),
 endereco varchar(50),
 n_matricula varchar(40));
 
--- create table turmas (
--- id int primary key auto_increment,
+create table turmas (
+id int primary key auto_increment,
 n_turma varchar(40),
 turno varchar(10));
 
