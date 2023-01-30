@@ -9,7 +9,7 @@
 
 ---
 
-## ⁉ Perquntas a ser respondidas
+## ⁉ Perquntas a serem respondidas
 
 #### Existem outras entidades além dessas três?
 
