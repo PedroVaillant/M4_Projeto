@@ -3,15 +3,11 @@
 
 #### Projeto individual do quarto módulo, do curso Programadores Cariocas junto com a Resilia e SENAC.
 
-</div>
-
 ---
 
 <img align="center" src="">
 
 ---
-
-<div align="center" style="display: inline_block">
 
 ## ⁉ Perquntas a ser respondidas
 
