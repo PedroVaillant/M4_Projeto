@@ -12,6 +12,7 @@
 ---
 
 <div align="center" style="display: inline_block">
+
 ## ⁉ Perquntas a ser respondidas
 
 #### Existem outras entidades além dessas três?
@@ -19,4 +20,5 @@
 #### Quais são os principais campos e tipos?
 
 #### Como essas entidades estão relacionadas?
+  
 </div>
