@@ -5,7 +5,7 @@
 
 ---
 
-<img align="center" src="https://user-images.githubusercontent.com/113939119/215633759-3a69a15f-17e1-476a-8ad6-4f4f566fadc4.png">
+<img align="center" src="https://user-images.githubusercontent.com/113939119/215636237-572b449d-f1ce-47e6-9c88-a7ac97894c89.png">
 
 ---
 
