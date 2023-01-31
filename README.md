@@ -11,13 +11,13 @@
 
 ## ⁉ Perquntas a serem respondidas
 
-### Existem outras entidades além dessas três?
+### ⇨ Existem outras entidades além dessas três?
 R: Não, porém poderia existir mais entidades.
 
-### Quais são os principais campos e tipos? 
+### ⇨ Quais são os principais campos e tipos? 
 R: O principal campo foi o ID, quanto os tipos foram INT e VARCHAR. 
 
-### Como essas entidades estão relacionadas?
+### ⇨ Como essas entidades estão relacionadas?
     CURSO ensina TURMA
 
     CURSOS geram TURMA
