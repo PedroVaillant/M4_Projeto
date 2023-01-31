@@ -1,25 +1,25 @@
-create database resilia;
+create database sisresilia;
 
-use resilia; 
-
-create table alunos (
-id int primary key auto_increment,
-cpf varchar(15),
-nome varchar(40),
-email varchar(40),
-telefone varchar(15),
-endereco varchar(50),
-n_matricula varchar(40));
-
-create table turmas (
-id int primary key auto_increment,
-n_turma varchar(40),
-turno varchar(10));
+use sisresilia; 
 
 create table professor (
 id int primary key auto_increment,
-nome varchar(40),
-n_matricula varchar(40),
-email varchar(40),
+nome varchar(50),
+cpf varchar(15),
+telefone varchar(20),
+endereco varchar(50),
+cargah varchar(40));
+
+create table turma (
+id int primary key auto_increment,
+turno varchar(20),
+qtdalunos int,
+sala varchar(20),
+monitor varchar(50));
+
+create table professor (
+id int primary key auto_increment,
+nome varchar(50),
+cpf varchar(15),
 telefone varchar(15),
-endereco varchar(50));
+matricula varchar(40));
