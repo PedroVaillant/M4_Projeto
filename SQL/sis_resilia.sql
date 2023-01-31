@@ -2,12 +2,11 @@ create database sisresilia;
 
 use sisresilia; 
 
-create table professor (
+create table curso (
 id int primary key auto_increment,
-nome varchar(50),
-cpf varchar(15),
-telefone varchar(20),
-endereco varchar(50),
+modulos varchar(30),
+materias varchar(30),
+professor varchar(50),
 cargah varchar(40));
 
 create table turma (
