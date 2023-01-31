@@ -14,7 +14,7 @@
 ### Existem outras entidades além dessas três?
 R: Não, porém poderia existir mais entidades.
 
-### <strong> Quais são os principais campos e tipos? </strong>
+### Quais são os principais campos e tipos? 
 R: O principal campo foi o ID, quanto os tipos foram INT e VARCHAR. 
 
 ### Como essas entidades estão relacionadas?
